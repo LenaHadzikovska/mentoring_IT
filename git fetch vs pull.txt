@@ -1,0 +1,2 @@
+Git pull is shorthand for git fetch followed by git merge: git fetch only gathers any commits from the target branch that do not exist in the current branch and stores them in local repository. 
+However, it does not merge them with your current branch whilst git pull do both.
